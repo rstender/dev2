@@ -504,6 +504,7 @@ ul#footer_navigation {
         display: inherit;
         width: auto;
         height: auto;
+        margin-bottom: 1em;
         }
      
      	
@@ -513,7 +514,7 @@ ul#footer_navigation {
     background: transparent;
     }
     
-    h1#who span a {
+    h1#who span a,  h1#who span a:hover,  h1#who span a:visited {
     	text-decoration: none;
     	color: #ee2d24;
     	{ 
