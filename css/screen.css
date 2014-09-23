@@ -213,6 +213,10 @@ h1.section_title span {
    height: 88px;
    }
    
+h1.mobile_section_title { 
+   visibility: hidden;
+   }   
+   
 h1#home span { background: transparent url("../images/h1_whats_the_big_idea.gif") no-repeat; }
 h1#who span { background: transparent url("../images/h1_who_is_barefoot.gif") no-repeat; }
 h1#services span { background: transparent url("../images/h1_our_services.gif") no-repeat; }
@@ -491,33 +495,14 @@ ul#footer_navigation {
       } 
       
    h1.section_title { 	
-     float: none;
-     width: auto;
-     padding: 0 10px 0;
-     background: #ffffff;
-     font-family: georgia, serif;
-     color: #ee2d24;
-     text-indent: 0;
+     display: none;
      }  
-     
-     h1.section_title span {
-        display: inherit;
-        width: auto;
-        height: auto;
-        margin-bottom: 1em;
-        }
-     
-     	
-    h1#who span { 
-    width: auto;
-    height: auto;
-    background: transparent;
-    }
     
-    h1#who span a,  h1#who span a:hover,  h1#who span a:visited {
-    	text-decoration: none;
-    	color: #ee2d24;
-    	{ 
+   h1.mobile_section_title { 
+      visibility: visible;
+      color: #ee2d24;
+      margin-bottom: 1em;
+    } 
     
     	
       }
