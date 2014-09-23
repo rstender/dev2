@@ -499,6 +499,13 @@ ul#footer_navigation {
      color: #ee2d24;
      text-indent: 0;
      }  
+     
+     h1.section_title span {
+        display: inherit;
+        width: auto;
+        height: auto;
+        }
+     
      	
     h1#who span { 
     width: auto;
