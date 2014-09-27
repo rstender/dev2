@@ -503,6 +503,7 @@ ul#footer_navigation {
    h1.mobile_section_title { 
       visibility: visible;
       color: #ee2d24;
+      margin-top: 1.6em;
       margin-bottom: 1.6em;
       font-size: 2em;
       font-family: georgia, times, serif;
