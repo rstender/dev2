@@ -27,6 +27,7 @@
 <!-- Begin Sidebar -->
 <div id="left_column">
 	<h1 class="section_title" id="who"><a href="<?php print $url_prefix; ?>who-is-barefoot/"><span>Who is Barefoot?</span></a></h1>
+	<h1 class="mobile_section_title"><?php get_page_title(); ?></h1>
 </div>   
 <!-- End Sidebar -->
 
