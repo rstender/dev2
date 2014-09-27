@@ -454,7 +454,7 @@ ul#footer_navigation {
    body {
       background: #ffffff url("../images/barefoot_bg.gif");
       margin: 0;
-      font-size: 125%;
+      font-size: 110%;
       }
    
    div#header_wrap {
@@ -503,8 +503,8 @@ ul#footer_navigation {
    h1.mobile_section_title { 
       visibility: visible;
       color: #ee2d24;
-      margin-top: 1.6em;
-      margin-bottom: 1.6em;
+      margin-top: 35px;
+      margin-bottom: 1em;
       font-size: 2em;
       font-family: georgia, times, serif;
     } 
