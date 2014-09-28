@@ -474,7 +474,7 @@ ul#footer_navigation {
    
    div#wrapper {
       width: 80%;
-      padding: 10px 15px 0 15px;
+      padding: 10px 0px 0 0px;
       margin: 0 auto;
       background: #ffffff url('') no-repeat;
       overflow: none;
@@ -504,7 +504,6 @@ ul#footer_navigation {
       visibility: visible;
       color: #ee2d24;
       margin-top: 35px;
-      margin-bottom: 1em;
       font-size: 2em;
       font-family: georgia, times, serif;
     } 
