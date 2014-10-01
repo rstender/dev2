@@ -499,6 +499,7 @@ ul#footer_navigation {
    
    div#content_home { 
    	width: auto;
+   	float: none;
    	}
    	   
    div#content, div#content_home { 
