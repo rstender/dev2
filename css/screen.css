@@ -491,12 +491,16 @@ ul#footer_navigation {
       padding: 0 0 0 0;
       }
       
-   div#right_column, div#right_column_home {
+   div#right_column, div#right_column_home	 {
       float: none;
       width: 100%;
       overflow: none;
       }
-      
+   
+   div#content_home { 
+   	width: auto;
+   	}
+   	   
    div#content, div#content_home { 
       padding: 0 10px 0 10px; 
       } 
