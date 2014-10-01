@@ -497,7 +497,7 @@ ul#footer_navigation {
       overflow: none;
       }
       
-   div#content { 
+   div#content, div#content_home { 
       padding: 0 10px 0 10px; 
       } 
       
