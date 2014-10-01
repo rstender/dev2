@@ -9,10 +9,10 @@
 *****************************************************/
 ?>
 <!DOCTYPE HTML>
-<head>
-<title><?php get_page_clean_title(); ?> &lt; <?php get_site_name(); ?></title>
-	<link rel="stylesheet" href="<?php get_theme_url(); ?>/css/screen.css" type="text/css" media="screen" />
-</head>
+<!-- Begin Head -->
+	<?php include('head.inc.php'); ?>
+<!-- End Head -->
+
 <body id="<?php return_page_slug(); ?>" >
 
 <!-- Begin Header -->
