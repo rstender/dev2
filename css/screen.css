@@ -478,6 +478,8 @@ ul#footer_navigation {
    	visibility: visible;
    	display: block;
    	margin: 0 auto;
+   	width: 72px;
+   	height: auto;
    }
    
    div.rmm {
