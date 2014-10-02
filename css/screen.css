@@ -476,7 +476,7 @@ ul#footer_navigation {
    
    img.mobile_logo {
    	display: block;
-   	margin: 0 auto;
+   	margin: 30px auto 0;
    	width: 72px;
    	height: auto;
    }
@@ -525,7 +525,7 @@ ul#footer_navigation {
    h1.mobile_section_title { 
       visibility: visible;
       color: #ee2d24;
-      margin-top: 35px;
+      margin-top: 20px;
       font-size: 2em;
       font-family: georgia, times, serif;
     } 
