@@ -473,7 +473,7 @@ ul#footer_navigation {
    div.rmm {
    		z-index:  100;
    		position: fixed;
-   		background-color: #c3d021;
+   		background-color: /*#c3d021*/ none;
    }
    
    div#wrapper {
