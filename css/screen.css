@@ -89,7 +89,7 @@ div#logo h1 {
 div#logo img { border: none; }
 
 img.mobile_logo {
-	visibility: hidden;
+	display: none;
 }
    
 div#header_wrap {
@@ -475,7 +475,6 @@ ul#footer_navigation {
    }   
    
    img.mobile_logo {
-   	visibility: visible;
    	display: block;
    	margin: 0 auto;
    	width: 72px;
