@@ -87,6 +87,10 @@ div#logo h1 {
    }
    
 div#logo img { border: none; }
+
+img.mobile_logo {
+	visibility: hidden;
+}
    
 div#header_wrap {
    margin: 0; 
@@ -469,6 +473,12 @@ ul#footer_navigation {
    	visibility: visible;
    	margin-top: 0;
    }   
+   
+   img.mobile_logo {
+   	visibility: visible;
+   	display: block;
+   	margin: 0 auto;
+   }
    
    div.rmm {
    		z-index:  100;
