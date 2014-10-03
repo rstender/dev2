@@ -33,6 +33,7 @@
 <!-- Begin Content -->
 
 <div id="right_column">
+	<img class="mobile_logo" src="<?php get_theme_url(); ?>/images/barefoot_logo_r_mobile.png" />
 	<div id="content">
 		<h1 class="mobile_section_title"><?php get_page_title(); ?></h1>
 		<?php get_page_content(); ?>
