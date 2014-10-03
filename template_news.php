@@ -27,7 +27,7 @@
 
 <!-- Begin Sidebar -->
 <div id="left_column">
-	<h1 class="section_title" id="news"><a href="<?php print $url_prefix; ?>in-the-news"><span>In the News</div>   
+	<h1 class="section_title" id="news"><a href="<?php print $url_prefix; ?>in-the-news"><span>In the News</span></div>   
 <!-- End Sidebar -->
 
 <!-- Begin Content -->
