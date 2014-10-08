@@ -509,11 +509,12 @@ ul#footer_navigation {
       }
    
    div#content_home { 
+   	float: none;   	
    	width: 90%;
-   	float: none;
+   	padding: 0 0px 0 0px; 
    	}
    	   
-   div#content, div#content_home { 
+   div#content { 
       padding: 0 10px 0 10px; 
       } 
       
