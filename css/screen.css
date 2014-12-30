@@ -498,7 +498,7 @@ ul#footer_navigation {
    
    div#left_column, div#left_column_home {
       float: none;
-      width: 100%;
+      width: auto;
       padding: 0 0 0 0;
       }
       
