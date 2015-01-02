@@ -490,7 +490,7 @@ ul#footer_navigation {
    div#wrapper {
       width: 300px;
       max-width: 460px;
-      padding: 0px 0px 0 0px;
+      padding: 10px 10px 0 10px;
       margin: 0 auto;
       background: #ffffff url('') no-repeat;
       overflow: none;
