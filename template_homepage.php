@@ -22,7 +22,7 @@
 <!-- Begin Header Responsive -->
 	<?php include('header-responsive.inc.php'); ?>
 <!-- End Header Responsive -->
-
+  
 <div id="wrapper">
 <!-- Begin Content -->
 
